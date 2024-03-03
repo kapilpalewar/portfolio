@@ -1,0 +1,14 @@
+.form-class{
+display: flex;
+flex-direction: column;
+gap: 10px;
+background-color: tomato;
+padding: 50px;
+}
+#container{
+   height: 100vh; 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #e9e9e9;
+}
